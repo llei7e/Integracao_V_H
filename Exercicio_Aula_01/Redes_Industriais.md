@@ -1,4 +1,4 @@
-**Colaboradores** - *Lucas Leite e Ricardo Silva*
+**Colaboradores** - *Lucas Leite, Ricardo Silva e Samuel Wellington*
 
 # Redes Industriais
 
