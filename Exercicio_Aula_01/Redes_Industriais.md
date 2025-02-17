@@ -1,3 +1,5 @@
+**Colaboradores** - *Lucas Leite e Ricardo Silva*
+
 # Redes Industriais
 
 Redes industriais são sistemas de comunicação que conectam dispositivos, máquinas e sistemas dentro de uma planta industrial, permitindo o controle, automação e monitoramento de processos em tempo real.  

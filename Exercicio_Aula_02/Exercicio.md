@@ -1,3 +1,5 @@
+**Colaboradores** - *Lucas Leite, Ricardo Silva, Kauan Izidoro, Gabriel Alvim, Gustavo Monteiro e Gustavo Sousa*.
+
 # Levantamento de Módulos e Integrações
 
 Uma indústria de fabricação possui uma linha de produção automatizada que inclui esteiras transportadoras, robôs para montagem, CLPs (Controladores Lógicos Programáveis), além de sensores e atuadores para controle de processos. O objetivo é garantir a eficiência, rastreabilidade e integração entre os diferentes sistemas utilizados na empresa.
